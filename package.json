@@ -1,0 +1,15 @@
+{
+  "name": "toilet-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "jimp": "^0.22.9",
+    "canvas": "2.11.2"
+  }
+}
